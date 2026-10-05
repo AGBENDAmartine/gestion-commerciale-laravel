@@ -17,9 +17,9 @@ Laravel 12, PHP 8.2, MySQL, Bootstrap 5, JavaScript, Blade, XAMPP
 
 ## Captures d'écran
 
-![Connexion](docs/screenshots/connexion.png)
-![Tableau de bord](docs/screenshots/dashboard.png)
-![Nouvelle vente](docs/screenshots/vente.png)
+![Connexion](connexion.png)
+![Tableau de bord](dashboard.png)
+![Nouvelle vente](vente.png)
 
 ## Installation
 
